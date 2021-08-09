@@ -7,7 +7,7 @@ This **ToDo List** web app is _angular_ based application which allows users to 
 - HTML and CSS
 - Visual Studio Code
 
-##Screenshots
+## Screenshots
 ### Adds 5 items to To-Do List
 ![image](https://user-images.githubusercontent.com/18711592/95403415-cae61800-08d7-11eb-814f-2b3d01ac07a0.png)
 
